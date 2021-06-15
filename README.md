@@ -6,7 +6,7 @@ Open-source sample provided by AppSeed to explain Django routing mechanism. All 
 
 <br />
 
-**Chech Python Verison**
+**Chech Python Version**
 
 ```bash
 $ python --version
