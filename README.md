@@ -88,6 +88,10 @@ def hello(request):
 
 ```
 
+**The browser output**
+
+![Django Sample URLs - Simple Hello World ouput from Django.](https://user-images.githubusercontent.com/51070104/122039333-41c89e80-cddf-11eb-9a69-9e797dcb2e46.png)
+
 <br />
 
 **Configure Django** to use the new route
@@ -125,6 +129,10 @@ def myrandom(request):
 
 The new medthod invoke `random()` from Python core library, convert the result to a string and return the result. 
 
+**The browser output**
+
+![Django Sample URLs - Display random number from Django.](https://user-images.githubusercontent.com/51070104/122039552-789eb480-cddf-11eb-9f01-8707c19ded69.png)
+
 <br />
 
 **Display a random image**
@@ -155,7 +163,11 @@ urlpatterns = [
 ]
 ```
 
+**The browser output**
+
+![Django Sample URLs - Display random image from Django.](https://user-images.githubusercontent.com/51070104/122039724-a1bf4500-cddf-11eb-8dc5-d8171284bf4a.png)
+
 <br />
 
 ---
-Django Sample URLs - Open-source Django sample provided by AppSeed [App Generator](https://appseed.us/app-generator) 
+Django Sample URLs - Open-source Sample provided by [AppSeed](https://appseed.us/app-generator). 
