@@ -2,7 +2,7 @@
 
 Open-source sample provided by AppSeed to explain Django routing mechanism. All commands used to code the project and also the relevant updates are listed below. 
 
-> For support and more samples join [AppSeed](https://appseed.us).
+> **For support and more [Django Samples](https://appseed.us/admin-dashboards/django) join [AppSeed](https://appseed.us).**
 
 <br />
 
