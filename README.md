@@ -1,6 +1,6 @@
 # Django Routing Sample
 
-Open-source sample provided by AppSeed to explain Django routing mechanism. All commands used to code the project and also the relevant updates are listed below. For newcomers, Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers, it takes care of much of the hassle of Web development, so you can focus on writing your app without needing to reinvent the wheel. 
+Open-source sample provided by AppSeed to explain **[Django Routing](https://docs.appseed.us/samples/django/django-routing)** mechanism. All commands used to code the project and also the relevant updates are listed below. For newcomers, **Django** is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers, it takes care of much of the hassle of Web development, so you can focus on writing your app without needing to reinvent the wheel. 
 
 > **For support and more [Django Samples](https://appseed.us/admin-dashboards/django) join [AppSeed](https://appseed.us).**
 
@@ -44,7 +44,7 @@ $ mkdir django-sample-urls
 $ cd django-sample-urls
 ```
 
-Inside the new directory, we will invoke `startproject` subcomand
+Inside the new directory, we will invoke `startproject` subcommand
 
 ```bash
 django-admin startproject config .
@@ -127,7 +127,7 @@ def myrandom(request):
 
 ```
 
-The new medthod invoke `random()` from Python core library, convert the result to a string and return the result. 
+The new method invoke `random()` from Python core library, convert the result to a string and return the result. 
 
 **The browser output**
 
