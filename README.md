@@ -169,5 +169,9 @@ urlpatterns = [
 
 <br />
 
+> **For support and more [Django Samples](https://appseed.us/admin-dashboards/django) join [AppSeed](https://appseed.us).**
+
+<br />
+
 ---
 Django Routing - Open-source Sample provided by [AppSeed](https://appseed.us/app-generator). 
